@@ -1,0 +1,1 @@
+am start -n com.samsung.android.app.telephonyui/.hiddennetworksetting.MainActivity

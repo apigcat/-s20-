@@ -1,0 +1,6 @@
+三星星浏览器如何恢复使用广告拦截器
+1. 在三星浏览器输入internet://debug/得到图1界面保持不动。
+2. 浏览器设置界面就有了Debug Settings 点击进入
+3. 点击进入Feature variation test，把三项均改为USC/USA／US。(图4)
+4. 返回Debug Settings界面，点击进入Single module tests，再点击进入Blockers settings，打开Support Content blockers。
+5. 下载安装AdGuard Content Blocker v2.7.0 链接:网页链接 或 AdBlock for Samsung Internet 链接:网页链接
